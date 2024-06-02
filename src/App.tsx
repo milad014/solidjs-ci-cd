@@ -11,8 +11,6 @@ const App: Component = () => {
         <p>
           Welcome To FrontEnd Chapter.
         </p>
-
-        <div>this is just for mohammad reza</div>
       </header>
     </div>
   );
